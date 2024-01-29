@@ -1,10 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://git.io/typing-svg)
 ---
+<br/>
+<a href="https://github.com/Lowzcore"> 
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">    
+</a>
+<p align="center">
+ <a href="https://github.com/Lowzcore" > 
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi+👋,+I'm+Thiago!;A+passionate+Ciber+Security+student+from+Brazil.; ; " alt="Typing SVG" /> 
+ </div>
+</a>
 
-
-  Hi 👋, I'm Thiago! A passionate Ciber Security student from Brazil.
+<br/>
+<br>
 
   -  I’m currently studying Analysis and Systems Development and Digital Security at UNINASSAU. I've been a technology enthusiast since I was a child, I've always been fascinated with solving problems logically, both in games and in everyday life.
 
@@ -21,27 +28,39 @@
 
 ---
 
-<div style="display: inline_block">
+<!-- SKILLS -->
+<h3 align="center">
+ SKILLS
+</h3>
+<div style="display: inline_block" align="center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="js" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div><br/>
-
-
-![Lowzcore GitHub stats](https://github-readme-stats.vercel.app/api?username=Lowzcore&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lowzcore&layout=compact&show_icons=true&theme=midnight-purple)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lowzcore&theme=midnight-purple&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<a href="https://github.com/Lowzcore"> 
- <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
-  </a> 
-
-<img width=100% src="https://github.com/Lowzcore/Lowzcore/assets/84164186/97d740be-e699-4b04-af86-d3cf0a269038"/>
-
+</div> <br/>
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<!-- STATS -->
+<h3 align="center">
+ ﻿Ｓｔａｔｓ
+</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lowzcore&show_icons=true&theme=algolia" />
+</p>
+   
+  <p align="center">
+  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Lowzcore&layout=compact&show_icons=true&theme=midnight-purple"/>
+</p> </br>
+
+ [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Lowzcore&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/walidbosso) </br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lowzcore&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lowzcore&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lowzcore&theme=algolia" width="31%" align="center" title="🦉 Night owl" /> </br>
+ 
+<a href="https://github.com/Lowzcore"> 
+ <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
+  </a> <br>
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=walidbosso&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/walidbosso) 
