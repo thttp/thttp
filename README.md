@@ -8,9 +8,11 @@
 </a>
 <p align="center">
  <a href="https://github.com/Lowzcore" > 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi+👋,+I'm+Thiago!;A+passionate+Ciber+Security+student+from+Brazil.; ; " alt="Typing SVG" /> 
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi+👋,+I'm+Thiago!;A+passionate+Ciber+Security+student+from+Brazil.; ; " alt="Typing SVG" /> <a href="https://github.com/Lowzcore"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=Lowzcore&style=for-the-badge&color=blue"></a>
  </div>
 </a>
+
+
 
 <br/>
 <br>
@@ -26,8 +28,7 @@
   - 💬 I am 18 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, C#, and Machine Learning.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>
-
+</details> 
 ---
 
 <!-- SKILLS -->
