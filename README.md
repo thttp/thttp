@@ -1,9 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E80FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://git.io/typing-svg)
 ---
 <br/>
 <a href="https://github.com/Lowzcore"> 
- <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">    
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="68">    
 </a>
 <p align="center">
  <a href="https://github.com/Lowzcore" > 
@@ -50,10 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lowzcore&show_icons=true&theme=algolia" />
 </p>
    
-  <p align="center">
-  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Lowzcore&layout=compact&show_icons=true&theme=midnight-purple"/>
-</p> </br>
-
  [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Lowzcore&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Lowzcore) </br>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lowzcore&theme=algolia" width="31%" align="left"/>
@@ -61,7 +58,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lowzcore&theme=algolia" width="31%" align="center" title="🦉 Night owl" /> </br>
  
 <a href="https://github.com/Lowzcore"> 
- <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
+ <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /> </br>
   </a> <br>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Lowzcore&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Lowzcore) 
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Lowzcore&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Lowzcore) </br>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E80FF&height=120&section=footer"/> </br>
