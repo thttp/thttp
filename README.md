@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://git.io/typing-svg)(https://github.com/Lowzcore)
 ---
 <br/>
 <a href="https://github.com/Lowzcore"> 
@@ -53,7 +53,7 @@
   <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Lowzcore&layout=compact&show_icons=true&theme=midnight-purple"/>
 </p> </br>
 
- [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Lowzcore&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/walidbosso) </br>
+ [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Lowzcore&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Lowzcore) </br>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lowzcore&theme=algolia" width="31%" align="left"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lowzcore&theme=algolia" width="31%" align="right" />
@@ -63,4 +63,5 @@
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
   </a> <br>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=walidbosso&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/walidbosso) 
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Lowzcore&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Lowzcore) 
+
