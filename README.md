@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E80FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://github.com/Lowzcore) <img align="right" width ="%" src="https://komarev.com/ghpvc/?username=walidbosso&style=for-the-badge&color=blue">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://github.com/Lowzcore) <img align="right" width ="%" src="https://komarev.com/ghpvc/?username=Lowzcore&style=for-the-badge&color=blue">
 
 <!-- ABOUT ME -->
 <br/>
