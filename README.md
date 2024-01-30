@@ -1,7 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E80FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://github.com/Lowzcore)
+
 ---
+
+<!-- About Me -->
 <br/>
 <a href="https://github.com/Lowzcore"> 
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="68">    
@@ -9,12 +12,8 @@
 <p align="center">
  <a href="https://github.com/Lowzcore" > 
  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi+👋,+I'm+Thiago!;A+passionate+Ciber+Security+student+from+Brazil.; ; " alt="Typing SVG" /> <a href="https://github.com/Lowzcore"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=Lowzcore&style=for-the-badge&color=blue"></a>
- </div>
-</a>
-
-
-
-<br/>
+  </div>
+ </a>
 <br>
 
   - 📚 I’m currently studying Analysis and Systems Development and Digital Security at UNINASSAU. I've been a technology enthusiast since I was a child, I've always been fascinated with solving problems logically, both in games and in everyday life.
@@ -29,11 +28,15 @@
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details> 
+<br>
+
+𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
+
 ---
 
 <!-- SKILLS -->
 <h3 align="center">
- SKILLS
+ 𝚂𝙺𝙸𝙻𝙻𝚂
 </h3>
 <div style="display: inline_block" align="center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,7 +49,7 @@
 
 <!-- STATS -->
 <h3 align="center">
- ﻿Ｓｔａｔｓ
+ 𝚂𝚃𝙰𝚃𝚂
 </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lowzcore&show_icons=true&theme=algolia" />
@@ -60,10 +63,19 @@
  
 <a href="https://github.com/Lowzcore"> 
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /> </br>
-  </a> <br>
+  </a><br></br><br>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Lowzcore&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Lowzcore) </br>
+<p akugb="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Lowzcore&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues"(https://github.com/Lowzcore)
+ </p><br></br><br>
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E80FF&height=120&section=footer"/> </br>
+
+<p align="center"> <br></br>
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The+important+thing+is+not+to+stop+questioning;+A+curiosity+has+its+own+reason+for+existing&author=Albert+Einstein" 
+   (https://github.com/Lowzcore)
+ </p>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E80FF&height=120&section=footer"/>
