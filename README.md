@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://github.com/Lowzcore) <img align="right" width ="%" src="https://komarev.com/ghpvc/?username=Lowzcore&style=for-the-badge&color=blue">
 
+
+
 <!-- ABOUT ME -->
 <br/>
 
@@ -41,7 +43,9 @@
  </a>
 </div> <br/>
 
+
 ---
+
 
 <!-- SKILLS -->
 <h3 align="center">
@@ -54,11 +58,11 @@
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  
- 
 </div> <br/>
 
+
 ---
+
 
 <!-- STATS -->
 <h3 align="center">
@@ -70,22 +74,30 @@
 
  [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Lowzcore&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Lowzcore) </br>
 
+
+
 <!-- STATISTICS -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lowzcore&theme=algolia" width="31%" align="left"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lowzcore&theme=algolia" width="31%" align="right" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lowzcore&theme=algolia" width="31%" align="center" title="🦉 Night owl" /> </br>
+
+
 
  <!-- NIGHT VIEW -->
 <a href="https://github.com/Lowzcore"> 
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /> </br>
   </a><br></br><br>
 
+
+
 <!-- TROPHY -->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Lowzcore&column=6&margin-w=1&margin-h=1&no-frame=true&theme=algolia&title=Commits,Followers,MultiLanguage,Repositories,Organizations,Stars,PullRequest,Issues"(https://github.com/Lowzcore)
  </p><br></br><br>
 
+
 ---
+
 
 <p align="center"> <br></br>
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The+important+thing+is+not+to+stop+questioning;+A+curiosity+has+its+own+reason+for+existing&author=Albert+Einstein" 
