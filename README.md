@@ -5,7 +5,7 @@
 
 ---
 
-<!-- About Me -->
+<!-- ABOUT ME -->
 <br/>
 <a href="https://github.com/Lowzcore"> 
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="68">    
@@ -13,15 +13,15 @@
 <p align="center">
  <a href="https://github.com/Lowzcore" > 
  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi+👋,+I'm+Thiago!;A+passionate+Ciber+Security+student+from+Brazil.; ; " alt="Typing SVG" /> <a href="https://github.com/Lowzcore">
-  </div>
- </a>
+ </div>
+</a>
 <br>
 
   - 📚 I’m currently studying Analysis and Systems Development and Digital Security at UNINASSAU. I've been a technology enthusiast since I was a child, I've always been fascinated with solving problems logically, both in games and in everyday life.
 
   - 🎓I am looking for my first job opportunity. My dream is to one day work with Ciber Security, but I'm open to new challenges. I recently completed the CS50 course, where I acquired skills in C#, Full Stack Web Development and became capable of creating technological solutions.
 </p>
-<!-- Dropdown -->
+<!-- DROPDOWN -->
 <details>
   <summary>👨‍💻 More about me</summary>
   
@@ -31,7 +31,7 @@
 </details> 
 <br>
 
-𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
+𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎:
 
 ---
 
@@ -55,23 +55,25 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lowzcore&show_icons=true&theme=algolia" />
 </p>
-   
+
  [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Lowzcore&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Lowzcore) </br>
 
+<!-- STATISTICS -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lowzcore&theme=algolia" width="31%" align="left"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lowzcore&theme=algolia" width="31%" align="right" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lowzcore&theme=algolia" width="31%" align="center" title="🦉 Night owl" /> </br>
- 
+
+ <!-- NIGHT VIEW -->
 <a href="https://github.com/Lowzcore"> 
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /> </br>
   </a><br></br><br>
 
-<p akugb="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lowzcore&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues"(https://github.com/Lowzcore)
+<!-- TROPHY -->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Lowzcore&column=6&margin-w=1&margin-h=1&no-frame=true&theme=algolia&title=Commits,Followers,MultiLanguage,Repositories,Organizations,Stars,PullRequest,Issues"(https://github.com/Lowzcore)
  </p><br></br><br>
 
 ---
-
 
 <p align="center"> <br></br>
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The+important+thing+is+not+to+stop+questioning;+A+curiosity+has+its+own+reason+for+existing&author=Albert+Einstein" 
