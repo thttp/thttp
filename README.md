@@ -82,9 +82,9 @@
 
 <!-- STATISTICS -->
 <a href="https://github.com/thttp">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thttp&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thttp&theme=algolia" width="31%" align="left" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thttp&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thttp&theme=algolia" width="31%" align="center" title="🦉 Night owl" /> </a> </br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thttp&theme=algolia" width="31%" align="center" /> </a> </br>
 
 
 
