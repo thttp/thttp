@@ -16,8 +16,7 @@
  <a href="https://github.com/Lowzcore" > 
  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi+👋,+I'm+Thiago!;A+passionate+Ciber+Security+student+from+Brazil.; ; " alt="Typing SVG" /> <a href="https://github.com/Lowzcore">
  </div>
-</a>
-<br>
+</a> <br>
 
   - 📚 I’m currently studying Analysis and Systems Development and Digital Security at UNINASSAU. I've been a technology enthusiast since I was a child, I've always been fascinated with solving problems logically, both in games and in everyday life.
 
@@ -25,7 +24,7 @@
 </p>
 <!-- DROPDOWN -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary> 👨‍💻 More about me </summary>
   
   - 💬 I am 18 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, C#, and Machine Learning.
 
@@ -33,6 +32,7 @@
 </details> 
 <br>
 
+<!-- CONTACT -->
 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎:
 
 <div style="display: inline_block" align="center">
@@ -57,7 +57,12 @@
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
- </div> <br/>
+ </div> <br> <br>
+ <!-- DROPDOWN -->
+ <details align="center" >
+  <summary> Learning Skills </summary> <br>
+  
+ </details>
 
 
 ---
