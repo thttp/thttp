@@ -1,7 +1,7 @@
 
-<a href="https://github.com/Lowzcore"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E80FF&height=120&section=header"/> </a>
+<a href="https://github.com/thttp"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E80FF&height=120&section=header"/> </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://github.com/Lowzcore) <a href="https://github.com/Lowzcore"> <img align="right" width ="%" src="https://komarev.com/ghpvc/?username=Lowzcore&style=for-the-badge&color=blue"> </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://github.com/thttp) <a href="https://github.com/thttp"> <img align="right" width ="%" src="https://komarev.com/ghpvc/?username=thttp&style=for-the-badge&color=blue"> </a>
 
 
 
@@ -9,12 +9,12 @@
 <br/>
 
 ---
-<a href="https://github.com/Lowzcore"> 
+<a href="https://github.com/thttp"> 
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="68">    
 </a>
 <p align="center">
- <a href="https://github.com/Lowzcore" > 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi+👋,+I'm+Thiago!;A+passionate+Ciber+Security+student+from+Brazil.; ; " alt="Typing SVG" /> <a href="https://github.com/Lowzcore">
+ <a href="https://github.com/thttp" > 
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi+👋,+I'm+Thiago!;A+passionate+Ciber+Security+student+from+Brazil.; ; " alt="Typing SVG" /> <a href="https://github.com/thttp">
  </div>
 </a> <br>
 
@@ -72,24 +72,24 @@
 <h3 align="center">
  𝚂 𝚃 𝙰 𝚃 𝚂
 </h3>
-<a href="https://github.com/Lowzcore">
+<a href="https://github.com/thttp">
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lowzcore&show_icons=true&theme=algolia" /></p></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=thttp&show_icons=true&theme=algolia" /></p></a>
 
- [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Lowzcore&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Lowzcore) </br>
+ [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Lowzcore&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/thttp) </br>
 
 
 
 <!-- STATISTICS -->
-<a href="https://github.com/Lowzcore">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lowzcore&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lowzcore&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lowzcore&theme=algolia" width="31%" align="center" title="🦉 Night owl" /> </a> </br>
+<a href="https://github.com/thttp">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thttp&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thttp&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thttp&theme=algolia" width="31%" align="center" title="🦉 Night owl" /> </a> </br>
 
 
 
  <!-- NIGHT VIEW -->
-<a href="https://github.com/Lowzcore"> 
+<a href="https://github.com/thttp"> 
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" />
   </a><br></br><br>
 
@@ -97,15 +97,15 @@
 
 <!-- TROPHY -->
 <p align="center">
-<a href="https://github.com/Lowzcore"> <img src="https://github-profile-trophy.vercel.app/?username=Lowzcore&column=6&margin-w=1&margin-h=1&no-frame=true&theme=algolia&title=Commits,Followers,MultiLanguage,Repositories,Organizations,Stars,PullRequest,Issues" </p><br></br><br>
+<a href="https://github.com/thttp"> <img src="https://github-profile-trophy.vercel.app/?username=thttp&column=6&margin-w=1&margin-h=1&no-frame=true&theme=algolia&title=Commits,Followers,MultiLanguage,Repositories,Organizations,Stars,PullRequest,Issues" </p><br></br><br>
 
 
 ---
 
 
 <p align="center"> <br></br>
- <a href="https://github.com/Lowzcore"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The+important+thing+is+not+to+stop+questioning;+A+curiosity+has+its+own+reason+for+existing&author=Albert+Einstein"
+ <a href="https://github.com/thttp"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The+important+thing+is+not+to+stop+questioning;+A+curiosity+has+its+own+reason+for+existing&author=Albert+Einstein"
  </p>
 <br>
 
-<a href="https://github.com/Lowzcore"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E80FF&height=120&section=footer"/>
+<a href="https://github.com/thttp"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E80FF&height=120&section=footer"/>
