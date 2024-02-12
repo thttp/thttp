@@ -60,8 +60,9 @@
  </div> <br> <br>
  <!-- DROPDOWN -->
  <details align="center" >
-  <summary> Learning Skills </summary> <br>
-  
+  <summary> Learning Skills 🚀 </summary> <br>
+   
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,ts&perline=5)](https://skillicons.dev)
  </details>
 
 
