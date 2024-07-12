@@ -13,13 +13,13 @@
  </div>
 </a> <br>
 
-  - 📚 I’m currently studying Analysis and Systems Development and Digital Security at UNINASSAU. I've been a technology enthusiast since I was a child, I've always been fascinated with solving problems logically, both in games and in everyday life.
+  - 📚 I’m currently studying Analysis and Systems Development and Digital Security at 𝗨𝗡𝗜𝗡𝗔𝗦𝗦𝗔𝗨. I've been a technology enthusiast since I was a child, I've always been fascinated with solving problems logically, both in games and in everyday life.
 
-  - 🎓I am looking for my first job opportunity. My dream is to one day work with Ciber Security, but I'm open to new challenges. I recently completed the CS50 course, where I acquired skills in C#, Full Stack Web Development and became capable of creating technological solutions.
+  - 🎓I am looking for my first job opportunity. My dream is to one day work with Ciber Security, but I'm open to new challenges. I recently completed the 𝗖𝗖𝟱𝟬 course, where I acquired skills in Python, Java, TypeScript, C# and became capable of creating technological solutions.
 </p>
 <!-- DROPDOWN -->
 <details>
-  <summary> 👨‍💻 More about me </summary>
+  <summary> 👨‍💻 𝗠𝗼𝗿𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝗲 </summary>
   
   - 💬 I am 18 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, C#, and Machine Learning.
 
@@ -30,7 +30,7 @@
 <!-- CONTACT -->
 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎:
 
-<div align="center">
+<div>
   <a href="mailto:thiagowowzero@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/thglwz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="http://walidbosso.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
@@ -57,7 +57,7 @@
  </div> <br> <br>
  <!-- DROPDOWN -->
  <details align="center" >
-  <summary> Learning Skills 🚀 </summary> <br>
+  <summary> 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗸𝗶𝗹𝗹𝘀 🚀 </summary> <br>
    
   [![My Skills](https://skillicons.dev/icons?i=py,java,ts,js,html,css&perline=6)](https://skillicons.dev)
  </details>
@@ -98,5 +98,3 @@
  <a href="https://github.com/thttp"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The+important+thing+is+not+to+stop+questioning;+A+curiosity+has+its+own+reason+for+existing&author=Albert+Einstein"
  </p>
 <br>
-
-<a href="https://github.com/thttp"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E80FF&height=120&section=footer"/>
