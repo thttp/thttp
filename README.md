@@ -13,9 +13,9 @@
  </div>
 </a> <br>
 
-  - 📚 I’m currently studying Analysis and Systems Development and Digital Security at 𝗨𝗡𝗜𝗡𝗔𝗦𝗦𝗔𝗨. I've been a technology enthusiast since I was a child, I've always been fascinated with solving problems logically, both in games and in everyday life.
+  - 📚 I’m currently studying Analysis and Systems Development and Digital Security at <b>UNINASSAU</b>. I've been a technology enthusiast since I was a child, I've always been fascinated with solving problems logically, both in games and in everyday life.
 
-  - 🎓I am looking for my first job opportunity. My dream is to one day work with Ciber Security, but I'm open to new challenges. I recently completed the 𝗖𝗖𝟱𝟬 course, where I acquired skills in Python, Java, TypeScript, C# and became capable of creating technological solutions.
+  - 🎓I am looking for my first job opportunity. My dream is to one day work with Ciber Security, but I'm open to new challenges. I recently completed the <b>CC50</b> course, where I acquired skills in <b>Python, Java, TypeScript, C#</b> and became capable of creating technological solutions.
 </p>
 <!-- DROPDOWN -->
 <details>
@@ -28,9 +28,9 @@
 <br>
 
 <!-- CONTACT -->
-𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎:
+𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘:
 
-<div>
+<div align="center">
   <a href="mailto:thiagowowzero@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/thglwz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="http://walidbosso.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
@@ -40,7 +40,7 @@
 
 <!-- SKILLS -->
 <h3 align="center">
- 𝚂 𝙺 𝙸 𝙻 𝙻 𝚂
+ <strong>SKILLS</strong>
 </h3>
  <div style="display: inline_block" align="center">
   
@@ -57,7 +57,7 @@
  </div> <br> <br>
  <!-- DROPDOWN -->
  <details align="center" >
-  <summary> 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗦𝗸𝗶𝗹𝗹𝘀 🚀 </summary> <br>
+  <summary> <b>Learning Skills</b> 🚀 </summary> <br>
    
   [![My Skills](https://skillicons.dev/icons?i=py,java,ts,js,html,css&perline=6)](https://skillicons.dev)
  </details>
@@ -66,7 +66,7 @@
 
 <!-- STATS -->
 <h3 align="center">
- 𝚂 𝚃 𝙰 𝚃 𝚂
+<b>STATS</b>
 </h3>
 <a href="https://github.com/thttp">
  <p align="center">
