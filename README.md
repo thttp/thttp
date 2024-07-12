@@ -12,7 +12,7 @@
 </a>
 <p align="center">
  <a href="https://github.com/thttp" > 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi+👋,+I'm+Thiago!;A+passionate+Ciber+Security+student+from+Brazil.; ; " alt="Typing SVG" /> <a href="https://github.com/thttp">
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi+👋,+I'm+Thiago!;A+passionate+technology+enthusiast+student+from+Brazil.; ; " alt="Typing SVG" /> <a href="https://github.com/thttp">
  </div>
 </a> <br>
 
