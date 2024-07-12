@@ -1,7 +1,4 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://github.com/thttp) <a href="https://github.com/thttp"> <img align="right" width ="%" src="https://komarev.com/ghpvc/?username=thttp&style=for-the-badge&color=blue"> </a>
-
-
 
 <!-- ABOUT ME -->
 <br/>
@@ -34,16 +31,15 @@
 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎:
 
 <div align="center">
- <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvrcNGFXbpdLhBxhbntTQDrLMVdSBNxKrbqKfwFHBSPDHGrPhnQbHrdbQZFKHRLmknqTvB">
-  <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img align="center" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:thiagowowzero@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thglwz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="http://walidbosso.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
 </div> <br/>
-
 
 ---
 
-
 <!-- SKILLS -->
+
 <h3 align="center">
  𝚂 𝙺 𝙸 𝙻 𝙻 𝚂
 </h3>
@@ -62,9 +58,7 @@
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java&perline=5)](https://skillicons.dev)
  </details>
 
-
 ---
-
 
 <!-- STATS -->
 <h3 align="center">
@@ -77,13 +71,11 @@
  [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=thttp&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/thttp) </br>
 
 
-
 <!-- STATISTICS -->
 <a href="https://github.com/thttp">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thttp&theme=algolia" width="31%" align="left" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thttp&theme=algolia" width="31%" align="right" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thttp&theme=algolia" width="31%" align="center" /> </a> </br>
-
 
 
  <!-- NIGHT VIEW -->
@@ -92,14 +84,11 @@
   </a><br></br><br>
 
 
-
 <!-- TROPHY -->
 <p align="center">
 <a href="https://github.com/thttp"> <img src="https://github-profile-trophy.vercel.app/?username=thttp&column=6&margin-w=1&margin-h=1&no-frame=true&theme=algolia&title=Commits,Followers,MultiLanguage,Repositories,Organizations,Stars,PullRequest,Issues" </p><br></br><br>
 
-
 ---
-
 
 <p align="center"> <br></br>
  <a href="https://github.com/thttp"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The+important+thing+is+not+to+stop+questioning;+A+curiosity+has+its+own+reason+for+existing&author=Albert+Einstein"
