@@ -44,6 +44,8 @@
 </h3>
  <div style="display: inline_block" align="center">
   
+  <a href="https://github.com/thttp">
+   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -54,16 +56,18 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 
- </div> <br> <br>
+   </a>
+  </div> <br> <br>
+ 
  <!-- DROPDOWN -->
  <details align="center" >
   <summary> <b>Learning Skills</b> 🚀 </summary> <br>
- <a href="https://github.com/thttp">
+    <a href="https://github.com/thttp">
   
   ![skills2](https://github.com/user-attachments/assets/5fa58b71-3501-4087-b01d-48b959fe8751)
-  </a>
  </details>
-
+  </a>
+  
 ---
 
 <!-- STATS -->
