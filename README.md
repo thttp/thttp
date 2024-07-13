@@ -16,7 +16,7 @@
 
   - 📚 I’m currently studying Analysis and Systems Development and Digital Security at <b>UNINASSAU</b>. I've been a technology enthusiast since I was a child, I've always been fascinated with solving problems logically, both in games and in everyday life.
 
-  - 🎓I am looking for my first job opportunity. My dream is to one day work with Ciber Security, but I'm open to new challenges. I recently completed the <b>CC50</b> course, where I acquired skills in <b>Python, Java, TypeScript, C#</b> and became capable of creating technological solutions.
+  - 🎓I am looking for my first job opportunity. My dream is to one day work with Ciber Security, but I'm open to new challenges... I recently completed the <b>CC50</b> course, where I acquired skills in <b>Python, Java, TypeScript, C#</b> and became capable of creating technological solutions.
 </p>
 <!-- DROPDOWN -->
 <details>
