@@ -38,7 +38,6 @@
 </div> <br/>
 
 ---
-
 <!-- SKILLS -->
 <h3 align="center">
  <strong>SKILLS</strong>
