@@ -58,8 +58,10 @@
  <!-- DROPDOWN -->
  <details align="center" >
   <summary> <b>Learning Skills</b> 🚀 </summary> <br>
-   
-  [![My Skills](https://skillicons.dev/icons?i=py,java,ts,js,html,css&perline=6)](https://skillicons.dev)
+ <a href="https://github.com/thttp">
+  
+  ![skills2](https://github.com/user-attachments/assets/5fa58b71-3501-4087-b01d-48b959fe8751)
+  </a>
  </details>
 
 ---
