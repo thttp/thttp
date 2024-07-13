@@ -34,7 +34,6 @@
 <div align="center">
   <a href="mailto:thiagowowzero@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/thglwz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="http://walidbosso.byethost12.com/wp-content/uploads/2023/09/CV_BOUSSOU_Walid_2023.pdf"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
 </div> <br/>
 
 ---
