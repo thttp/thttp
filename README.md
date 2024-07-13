@@ -60,7 +60,7 @@
   <summary> <b>Learning Skills</b> 🚀 </summary> <br>
     <a href="https://github.com/thttp">
   
-  ![skills2](https://github.com/user-attachments/assets/5fa58b71-3501-4087-b01d-48b959fe8751)
+  ![skills2](https://github.com/user-attachments/assets/ea510f1a-2e02-49f4-ae5d-f4a2eece8222)
  </details>
   </a>
   
