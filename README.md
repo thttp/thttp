@@ -10,7 +10,7 @@
 </a>
 <p align="center">
  <a href="https://github.com/thttp" > 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi+👋,+I'm+Thiago!;A+enthusiast+student+from+Brazil+with+a+passion+for+technology.; ; " alt="Typing SVG" /> <a href="https://github.com/thttp">
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi,+I'm+Thiago!;A+enthusiast+student+from+Brazil+with+a+passion+for+technology.; ; " alt="Typing SVG" /> <a href="https://github.com/thttp">
  </div>
 </a> <br>
 
