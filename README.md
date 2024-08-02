@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World)](https://github.com/thttp) <a href="https://github.com/thttp"> <img align="right" width ="%" src="https://komarev.com/ghpvc/?username=thttp&style=for-the-badge&color=blue"> </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!)](https://github.com/thttp) <a href="https://github.com/thttp"> <img align="right" width ="%" src="https://komarev.com/ghpvc/?username=thttp&style=for-the-badge&color=blue"> </a>
 
 <!-- ABOUT ME -->
 <br/>
