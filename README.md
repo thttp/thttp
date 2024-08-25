@@ -44,12 +44,12 @@
  <strong>SKILLS</strong> </h3>
  <div style="display: inline_block" align="center">
 
-| **Programming Languages**                                                                                                                               | **Tools**                                                                                                                             | **Data Related**                                                                                   | **Frameworks**                                                                                          |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+| Programming Languages                                                                                                                                | Tools                                                                                                                             | Data Related                                                                                  | Frameworks                                                                                          |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)                                        | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)                             | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)                                            | ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)                             | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)                  |
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                                           | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)                        | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |                                                                                                    |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)                                |                                                                                                                                 |                                                                                           |                                                                                                    |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)                                |                                                                                                                                 | ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) |                                                                                                    |
 
   </div> <br> <br>
  
@@ -60,11 +60,9 @@
 <b>STATS</b>
 </h3>
 <a href="https://github.com/thttp">
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thttp&show_icons=true&theme=algolia" /></p></a>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thttp&show_icons=true&theme=algolia" /></p></a>
 
  [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=thttp&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/thttp) </br>
-
 
 <!-- STATISTICS -->
 <a href="https://github.com/thttp">
@@ -72,12 +70,10 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thttp&theme=algolia" width="31%" align="right" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thttp&theme=algolia" width="31%" align="center" /> </a> </br>
 
-
- <!-- NIGHT VIEW -->
+<!-- NIGHT VIEW -->
 <a href="https://github.com/thttp"> 
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" />
   </a><br></br><br>
-
 
 <!-- TROPHY -->
 <p align="center">
