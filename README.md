@@ -1,6 +1,4 @@
-<a href="https://github.com/thttp">
-
-![header](https://github.com/user-attachments/assets/fc4d0651-6588-4d76-ba85-771ce172f62d)</a>
+<a href="https://github.com/thttp"> ![header](https://github.com/user-attachments/assets/fc4d0651-6588-4d76-ba85-771ce172f62d)</a>
 
 <img align="right" width ="%" src="https://komarev.com/ghpvc/?username=thttp&style=for-the-badge&color=blue"> </a>
 
