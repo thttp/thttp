@@ -15,13 +15,13 @@
 
   - 📚 I’m currently studying Analysis and Systems Development and Digital Security at <b>UNINASSAU</b>. I've been a technology enthusiast since I was a child, I've always been fascinated with solving problems logically, both in games and in everyday life.
 
-  - 🎓I am looking for my first job opportunity. My dream is to one day work with Ciber Security, but I'm open to new challenges... I recently completed the <b>CS50</b> course, where I acquired skills in <b>Python, Java, TypeScript, C#</b> and became capable of creating technological solutions.
+  - 🎓I am looking for my first job opportunity. My dream is to one day work with Ciber Security, but I'm open to new challenges... I recently completed the <b>CS50</b> course, where I acquired skills in <b>Java, Spring Boot, Python, Flask</b> and became capable of creating technological solutions.
 </p>
 <!-- DROPDOWN -->
 <details>
   <summary> 👨‍💻 𝗠𝗼𝗿𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝗲 </summary>
   
-  - 💬 I am 18 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, C#, and Machine Learning...
+  - 💬 I am 18 years old, currently living in Brazil. I have fluency in English and have experience with Java, Nodejs, C++, and Python...
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details> 
