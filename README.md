@@ -40,7 +40,7 @@
 ---
 <!-- SKILLS -->
 <h3 align="center">
- <strong>SKILLS</strong> </h3>
+ <bold>SKILLS</bold> </h3>
  <div style="display: inline_block" align="center">
 
 | **Programming Languages**                                                                                                                            | **Tools**                                                                                                                         | **Data Related**                                                                           | **Frameworks**                                                                                          |
@@ -56,7 +56,7 @@
 
 <!-- STATS -->
 <h3 align="center">
-<b>STATS</b>
+<b><bold>STATS</bold></b>
 </h3>
 <a href="https://github.com/thttp">
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thttp&show_icons=true&theme=algolia" /></p></a>
