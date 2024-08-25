@@ -1,10 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!)](https://github.com/thttp) <a href="https://github.com/thttp"> <img align="right" width ="%" src="https://komarev.com/ghpvc/?username=thttp&style=for-the-badge&color=blue"> </a>
+![header](https://github.com/user-attachments/assets/fc4d0651-6588-4d76-ba85-771ce172f62d)
+
+<img align="right" width ="%" src="https://komarev.com/ghpvc/?username=thttp&style=for-the-badge&color=blue"> </a>
 
 <!-- ABOUT ME -->
-<br/>
-
----
-
+<br>
 <a href="https://github.com/thttp"> 
  <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="68">    
 </a>
@@ -12,7 +11,7 @@
  <a href="https://github.com/thttp" > 
  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Hi,+I'm+Thiago!;A+enthusiast+student+from+Brazil+with+a+passion+for+technology.; ; " alt="Typing SVG" /> <a href="https://github.com/thttp">
  </div>
-</a> <br>
+</a> </br>
 
   - 📚 I’m currently studying Analysis and Systems Development and Digital Security at <b>UNINASSAU</b>. I've been a technology enthusiast since I was a child, I've always been fascinated with solving problems logically, both in games and in everyday life.
 
