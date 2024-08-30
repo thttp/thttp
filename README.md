@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="mailto:thiagowowzero@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/thtpps" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/thtpps/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://1drv.ms/b/c/b63255eb299d9055/EYXXOs6MRaJPkhV6mapgoHAB7Pa021AyGVvA99ao-LewEA?e=ezdAhX"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
 
 </div> <br/>
