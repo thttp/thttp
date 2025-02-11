@@ -75,8 +75,10 @@
   </a><br></br><br>
 
 <!-- TROPHY -->
-<p align="center">
-<a href="https://github.com/thttp"> <img src="https://github-profile-trophy.vercel.app/?username=thttp&column=6&margin-w=1&margin-h=1&no-frame=true&theme=algolia&title=Commits,Followers,MultiLanguage,Repositories,Organizations,Stars,PullRequest,Issues" </p><br></br><br>
+ <div style="display: inline_block" align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=thttp&theme=onedark)](https://github.com/thttp/)
+ </div> <br></br>
 
 ---
 
