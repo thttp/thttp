@@ -21,7 +21,7 @@
 <details>
   <summary> 👨‍💻 𝗠𝗼𝗿𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝗲 </summary>
   
-  - 💬 I am 18 years old, currently living in Brazil. I have fluency in English and have experience with Java, Nodejs, C++, and Python...
+  - 💬 I am 19 years old, currently living in Brazil. I have fluency in English and have experience with Java, Nodejs and Python...
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details> 
