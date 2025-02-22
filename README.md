@@ -73,12 +73,6 @@
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" />
   </a><br></br><br>
 
-<!-- TROPHY -->
- <div style="display: inline_block" align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=thttp&theme=onedark)](https://github.com/thttp/)
- </div> <br></br>
-
 ---
 
 <p align="center"> <br></br>
