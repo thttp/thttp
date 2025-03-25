@@ -60,13 +60,13 @@
 </h3>
 <a href="https://github.com/thttp">
  
- [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=thttp&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/thttp) </br>
+ [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=thttp&theme=tokyo-night&hide_border=true&bg_color=01102d&line=36bcf7)](https://github.com/thttp) </br>
 
 <!-- STATISTICS -->
-<a href="https://github.com/thttp">
+<a align="center" href="https://github.com/thttp">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thttp&theme=algolia" width="31%" align="left" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thttp&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thttp&theme=algolia" width="31%" align="center" /> </a> </br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thttp&theme=algolia" width="31%" align="center" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thttp&theme=algolia" width="31%" align="right" /> </a>
 
 <!-- NIGHT VIEW -->
 <a href="https://github.com/thttp"> 
