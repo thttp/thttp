@@ -14,9 +14,3 @@
   <br>
   <img width="390" src="./metrics.plugin.isocalendar.svg">
 </div>
-
-<div align="left">
-  <img width="390" src="./metrics.plugin.languages.indepth.svg">
-  <br>
-  <img width="390" src="./metrics.plugin.languages.recent.svg">
-</div>
