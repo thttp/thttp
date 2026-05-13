@@ -85,8 +85,11 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write
-
+      contents: read
+      issues: read
+      pull-requests: read
+      actions: read
+      
     steps:
       - name: Activity
         uses: lowlighter/metrics@latest
@@ -96,7 +99,7 @@ jobs:
 
           filename: metrics.plugin.activity.svg
 
-          base: ""
+          base: header
 
           plugin_activity: yes
           plugin_activity_limit: 5
