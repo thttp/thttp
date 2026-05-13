@@ -109,12 +109,15 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write
+      contents: read
 
     steps:
       - name: News from Hacker News
         uses: lowlighter/metrics@latest
         with:
+          user: thttp
+          token: ${{ secrets.GITHUB_TOKEN }}
+
           filename: metrics.plugin.rss.svg
 
           base: ""
