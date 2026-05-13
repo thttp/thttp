@@ -17,7 +17,7 @@ jobs:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          filename: github-metrics.svg
+          filename: .github/plugins/github-metrics.svg
 
           base: header
           base_indepth: yes
@@ -35,7 +35,7 @@ jobs:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          filename: metrics.plugin.repositories.svg
+          filename: .github/plugins/metrics.plugin.repositories.svg
 
           base: ""
 
@@ -55,7 +55,7 @@ jobs:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          filename: metrics.plugin.isocalendar.svg
+          filename: .github/plugins/metrics.plugin.isocalendar.svg
 
           base: ""
 
@@ -75,7 +75,7 @@ jobs:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          filename: metrics.plugin.notable.svg
+          filename: .github/plugins/metrics.plugin.notable.svg
 
           base: ""
 
@@ -90,25 +90,24 @@ jobs:
       pull-requests: read
 
     steps:
-    - name: Recent activity
-      uses: lowlighter/metrics@latest
-      with:
-        user: thttp
-        token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          user: thttp
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-        filename: metrics.plugin.activity.svg
+          filename: .github/plugins/metrics.plugin.activity.svg
 
-        base: ""
+          base: ""
 
-        plugin_activity: true
-        plugin_activity_limit: 8
-        plugin_activity_load: 300
-        plugin_activity_days: 90
-        plugin_activity_visibility: all
-        plugin_activity_timestamps: false
+          plugin_activity: true
+          plugin_activity_limit: 8
+          plugin_activity_load: 300
+          plugin_activity_days: 90
+          plugin_activity_visibility: all
+          plugin_activity_timestamps: false
+          plugin_activity_filter: issue,pr,release,push,review,star,fork
 
-        plugin_activity_filter: issue,pr,release,push,review,star,fork
-        
   rss:
     runs-on: ubuntu-latest
 
@@ -122,7 +121,7 @@ jobs:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          filename: metrics.plugin.rss.svg
+          filename: .github/plugins/metrics.plugin.rss.svg
 
           base: ""
 
