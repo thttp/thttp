@@ -60,3 +60,23 @@ jobs:
           base: ""
 
           plugin_notable: yes
+
+  repositories:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Featured repositories
+        uses: lowlighter/metrics@latest
+        with:
+          user: thttp
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          filename: metrics.plugin.repositories.svg
+
+          base: ""
+
+          plugin_repositories: yes
+          plugin_repositories_featured: thttp/LinkFlow,thttp/legendary-fishstick
