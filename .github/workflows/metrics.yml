@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  metrics:
+  general:
     runs-on: ubuntu-latest
 
     permissions:
@@ -19,15 +19,22 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
 
-      - name: Half-year calendar
+  isocalendar:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Isocalendar
         uses: lowlighter/metrics@latest
         with:
+          user: thttp
+          token: ${{ secrets.GITHUB_TOKEN }}
+
           filename: metrics.plugin.isocalendar.svg
 
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: thttp
-
           base: ""
-
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 ```
