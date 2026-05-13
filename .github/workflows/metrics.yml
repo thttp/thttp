@@ -1,3 +1,4 @@
+```yml id="8fjc3m"
 name: Metrics
 
 on:
@@ -16,7 +17,11 @@ jobs:
         with:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
+
           filename: github-metrics.svg
+
+          base: header
+          base_indepth: yes
 
   isocalendar:
     runs-on: ubuntu-latest
@@ -36,3 +41,4 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+```
