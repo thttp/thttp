@@ -38,5 +38,57 @@ jobs:
           filename: metrics.plugin.isocalendar.svg
 
           base: ""
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+  languages-indepth:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Languages indepth
+        uses: lowlighter/metrics@latest
+        with:
+          user: thttp
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          filename: metrics.plugin.languages.indepth.svg
+
+          base: ""
+
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+
+          plugin_languages_sections: most-used
+
+          plugin_languages_limit: 8
+
+          plugin_languages_details: lines, bytes-size, percentage
+
+  languages-recent:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Recent languages
+        uses: lowlighter/metrics@latest
+        with:
+          user: thttp
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          filename: metrics.plugin.languages.recent.svg
+
+          base: ""
+
+          plugin_languages: yes
+
+          plugin_languages_sections: recently-used
+
+          plugin_languages_limit: 8
+
+          plugin_languages_details: lines, bytes-size, percentage
