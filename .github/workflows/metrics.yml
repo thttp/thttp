@@ -41,3 +41,22 @@ jobs:
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+  notable:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Notable contributions
+        uses: lowlighter/metrics@latest
+        with:
+          user: thttp
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          filename: metrics.plugin.notable.svg
+
+          base: ""
+
+          plugin_notable: yes
