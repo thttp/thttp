@@ -1,7 +1,7 @@
 > Want to know what I'm currently working on ?\
 > Checkout [my repositories](https://github.com/thttp?tab=repositories) and [cybersecurity studies.](https://tryhackme.com/p/thttp)
 >
-> *PS: I haven't been very active on [thttp/linkflow](https://github.com/thttp/LinkFlow) recently, but it's still in the boxes taking a bit longer than expected to build up the bricks !*
+> *PS: I haven't been very active on [thttp/linkflow](https://github.com/thttp/linkflow) recently, but it's still in the boxes taking a bit longer than expected to build up the bricks !*
 > - [x] `CCNA studies`
 > - [x] `MTCNA certification`
 > - [x] `Infrastructure support projects`
@@ -9,8 +9,10 @@
 > - [ ] `CompTIA Security+`
 >   - → I'm studying actively on this currently
 
+[<img align="left" width="390" src="./github-metrics.svg">](#) 
+[<img align="right" width="390" src="./metrics.plugin.repositories.svg">](#) 
+[<img align="right" width="390" height="80" src="./placeholder.svg">](#)
 <div align="left">
-  <img width="390" src="./github-metrics.svg">
   <br>
   <img width="390" src="./metrics.plugin.isocalendar.svg">
   <br>
