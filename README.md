@@ -9,7 +9,6 @@
 > - [ ] `CompTIA Security+`
 >   - → I'm studying actively on this currently
 
-
 [<img align="left" width="390" src=".github/plugins/github-metrics.svg">](#) 
 [<img align="right" width="390" src=".github/plugins/metrics.plugin.repositories.svg">](#) 
 [<img align="right" width="390" height="0" src=".github/plugins/placeholder.svg">](#)
@@ -20,7 +19,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,python,aws,grafana,github,bash,cloudflare&theme=dark" />
-  <br>
+<br>
   <img src="https://skillicons.dev/icons?i=docker,powershell,kali,ubuntu,ansible&theme=dark" />
   <img width="48" src="https://cdn.simpleicons.org/mikrotik" />
   <img width="48" src="https://cdn.simpleicons.org/wireshark" />
@@ -29,6 +28,6 @@
   <img width="390" src=".github/plugins/metrics.plugin.activity.svg" /> 
   </a>
 <br>
-<a href="https://news.ycombinator.com/">
+<a href="https://news.ycombinator.com/" target="_blank" rel="noopener noreferrer">
   <img width="390" src=".github/plugins/metrics.plugin.rss.svg" />
 </a>
