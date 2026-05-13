@@ -41,34 +41,3 @@ jobs:
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-
-          extras_css: |
-            rect.day { fill: #111111 !important; }
-            rect.day.active { fill: #00ff66 !important; }
-            svg { background: #000000 !important; }
-
-  languages-indepth:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - name: Languages indepth
-        uses: lowlighter/metrics@latest
-        with:
-          user: thttp
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-          filename: metrics.plugin.languages.indepth.svg
-
-          base: ""
-
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-
-          plugin_languages_sections: most-used
-
-          plugin_languages_limit: 8
-
-          plugin_languages_details: lines, bytes-size, percentage
