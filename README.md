@@ -27,6 +27,6 @@
 
   <img width="390" src=".github/plugins/metrics.plugin.activity.svg" /> 
   </a> <br>
-<a href="https://news.ycombinator.com/" target="_blank">
+<a href="https://news.ycombinator.com/">
   <img width="390" src=".github/plugins/metrics.plugin.rss.svg" />
 </a>
