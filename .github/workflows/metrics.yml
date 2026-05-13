@@ -1,4 +1,3 @@
-```yml
 name: Metrics
 
 on:
@@ -8,20 +7,6 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Isocalendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: isocalendar.svg
-
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: thttp
-
-          base: ""
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-```
+      - name: Test
+        run: echo "Workflow funcionando"
