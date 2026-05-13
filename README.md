@@ -27,3 +27,6 @@
   <img width="48" src="https://cdn.simpleicons.org/wireshark" />
 </p>
 
+<div align="left">
+  <img width="390" src="./metrics.plugin.activity.svg">
+</div>
