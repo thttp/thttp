@@ -24,4 +24,5 @@
   <img width="48" src="https://cdn.simpleicons.org/wireshark" />
 </p>
 
-[<img align="left" width="390" src="./metrics.plugin.activity.svg">](#) 
+<img width="390" src="./metrics.plugin.activity.svg"> <br>
+<img width="390" src="./metrics.plugin.rss.svg">
