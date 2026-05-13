@@ -9,4 +9,5 @@
 > - [ ] `CompTIA Security+`
 >   - → I'm studying actively on this currently
 
-<img src="./github-metrics.svg">
+<img align="left" width="390" src="./github-metrics.svg">
+<img align="right" width="390" src="./metrics.plugin.isocalendar.svg">
