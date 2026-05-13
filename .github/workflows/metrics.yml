@@ -86,21 +86,28 @@ jobs:
 
     permissions:
       contents: write
+      issues: read
+      pull-requests: read
 
     steps:
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          user: thttp
-          token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Recent activity
+      uses: lowlighter/metrics@latest
+      with:
+        user: thttp
+        token: ${{ secrets.GITHUB_TOKEN }}
 
-          filename: metrics.plugin.activity.svg
+        filename: metrics.plugin.activity.svg
 
-          base: header
+        base: ""
 
-          plugin_activity: true
-          plugin_activity_limit: 5
-          plugin_activity_days: 90
+        plugin_activity: true
+        plugin_activity_limit: 8
+        plugin_activity_load: 300
+        plugin_activity_days: 90
+        plugin_activity_visibility: all
+        plugin_activity_timestamps: false
+
+        plugin_activity_filter: issue,pr,release,push,review,star,fork
         
   rss:
     runs-on: ubuntu-latest
