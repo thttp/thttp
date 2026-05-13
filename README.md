@@ -9,12 +9,13 @@
 > - [ ] `CompTIA Security+`
 >   - → I'm studying actively on this currently
 
-[<img align="left" width="390" src="./github-metrics.svg">](#) 
-[<img align="right" width="390" src="./metrics.plugin.repositories.svg">](#) 
-[<img align="right" width="390" height="0" src="./placeholder.svg">](#)
 
-<img width="390" src="./metrics.plugin.isocalendar.svg"> <br>
-<img width="390" src="./metrics.plugin.notable.svg">
+[<img align="left" width="390" src=".github/plugins/github-metrics.svg">](#) 
+[<img align="right" width="390" src=".github/plugins/metrics.plugin.repositories.svg">](#) 
+[<img align="right" width="390" height="0" src=".github/plugins/placeholder.svg">](#)
+
+<img width="390" src=".github/plugins/metrics.plugin.isocalendar.svg"> <br>
+<img width="390" src=".github/plugins/metrics.plugin.notable.svg">
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,python,aws,grafana,github,bash,cloudflare&theme=dark" />
@@ -24,7 +25,7 @@
   <img width="48" src="https://cdn.simpleicons.org/wireshark" />
 </p>
 
-<img width="390" src="./metrics.plugin.activity.svg" /> <br>
+<img width="390" src=".github/plugins/metrics.plugin.activity.svg" /> <br>
 <a href="https://news.ycombinator.com/">
-  <img width="390" src="./metrics.plugin.rss.svg" />
-</a>  
+  <img width="390" src=".github/plugins/metrics.plugin.rss.svg" />
+</a>
