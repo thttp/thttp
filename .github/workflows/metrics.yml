@@ -85,13 +85,10 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: read
-      issues: read
-      pull-requests: read
-      actions: read
-      
+      contents: write
+
     steps:
-      - name: Activity
+      - name: Recent activity
         uses: lowlighter/metrics@latest
         with:
           user: thttp
@@ -101,10 +98,10 @@ jobs:
 
           base: header
 
-          plugin_activity: yes
+          plugin_activity: true
           plugin_activity_limit: 5
-          plugin_activity_days: 14
-
+          plugin_activity_days: 90
+        
   rss:
     runs-on: ubuntu-latest
 
