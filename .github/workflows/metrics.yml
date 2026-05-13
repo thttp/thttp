@@ -94,7 +94,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           user: thttp
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           filename: .github/plugins/metrics.plugin.activity.svg
 
