@@ -14,8 +14,10 @@
 [<img align="right" width="390" src=".github/plugins/metrics.plugin.repositories.svg">](#) 
 [<img align="right" width="390" height="0" src=".github/plugins/placeholder.svg">](#)
 
-<img width="390" src=".github/plugins/metrics.plugin.isocalendar.svg"> <br>
-<img width="390" src=".github/plugins/metrics.plugin.notable.svg">
+<a href="https://github.com/thttp#">
+  <img width="390" src=".github/plugins/metrics.plugin.isocalendar.svg"> <br>
+  <img width="390" src=".github/plugins/metrics.plugin.notable.svg">
+</a>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,python,aws,grafana,github,bash,cloudflare&theme=dark" />
