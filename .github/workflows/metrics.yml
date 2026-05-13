@@ -104,3 +104,21 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
+
+  rss:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: News from Hacker News
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.rss.svg
+
+          base: ""
+
+          plugin_rss: true
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
