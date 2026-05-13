@@ -1,3 +1,4 @@
+```yml
 name: Metrics
 
 on:
@@ -11,9 +12,22 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate metrics
+      - name: General metrics
         uses: lowlighter/metrics@latest
         with:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
+
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: thttp
+
+          base: ""
+
+          plugin_isocalendar: yes
+```
