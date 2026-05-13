@@ -24,5 +24,7 @@
   <img width="48" src="https://cdn.simpleicons.org/wireshark" />
 </p>
 
-<img width="390" src="./metrics.plugin.activity.svg"> <br>
-<img width="390" src="./metrics.plugin.rss.svg">
+<img width="390" src="./metrics.plugin.activity.svg" /> <br>
+<a href="https://news.ycombinator.com/">
+  <img width="390" src="./metrics.plugin.rss.svg" />
+</a>  
