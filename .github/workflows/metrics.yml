@@ -22,7 +22,7 @@ jobs:
           base: header
           base_indepth: yes
 
-  isocalendar:
+isocalendar:
     runs-on: ubuntu-latest
 
     permissions:
@@ -39,11 +39,14 @@ jobs:
 
           base: ""
 
-          config_theme: cyberpunk
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
+          extras_css: |
+            rect.day { fill: #111111 !important; }
+            rect.day.active { fill: #00ff66 !important; }
+            svg { background: #000000 !important; }
+            
   languages-indepth:
     runs-on: ubuntu-latest
 
