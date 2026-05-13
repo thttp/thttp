@@ -11,13 +11,10 @@
 
 [<img align="left" width="390" src="./github-metrics.svg">](#) 
 [<img align="right" width="390" src="./metrics.plugin.repositories.svg">](#) 
-[<img align="right" width="390" height="80" src="./placeholder.svg">](#)
-<div align="left">
-  <br>
-  <img width="390" src="./metrics.plugin.isocalendar.svg">
-  <br>
-  <img width="390" src="./metrics.plugin.notable.svg">
-</div>
+[<img align="right" width="390" height="0" src="./placeholder.svg">](#)
+
+<img width="390" src="./metrics.plugin.isocalendar.svg"> <br>
+<img width="390" src="./metrics.plugin.notable.svg">
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,python,aws,grafana,github,bash,cloudflare&theme=dark" />
@@ -27,6 +24,4 @@
   <img width="48" src="https://cdn.simpleicons.org/wireshark" />
 </p>
 
-<div align="left">
-  <img width="390" src="./metrics.plugin.activity.svg">
-</div>
+[<img align="left" width="390" src="./metrics.plugin.activity.svg">](#) 
