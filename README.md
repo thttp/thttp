@@ -13,4 +13,15 @@
   <img width="390" src="./github-metrics.svg">
   <br>
   <img width="390" src="./metrics.plugin.isocalendar.svg">
+  <br>
+  <img width="390" src="./metrics.plugin.notable.svg">
 </div>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,python,aws,grafana,github,bash,cloudflare&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,powershell,kali,ubuntu,ansible&theme=dark" />
+  <img width="48" src="https://cdn.simpleicons.org/mikrotik" />
+  <img width="48" src="https://cdn.simpleicons.org/wireshark" />
+</p>
+
