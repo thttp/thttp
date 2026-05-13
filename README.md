@@ -8,3 +8,5 @@
 > - [x] `Linux environment customization`
 > - [ ] `CompTIA Security+`
 >   - → I'm studying actively on this currently
+
+<img src="./github-metrics.svg">
