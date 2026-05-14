@@ -20,7 +20,6 @@
 
 <a href="https://github.com/thttp#">
   <img width="390" src=".github/plugins/metrics.plugin.notable.svg">
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,python,aws,grafana,github,bash,cloudflare&theme=dark" />
 <br>
