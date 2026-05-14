@@ -13,8 +13,12 @@
 [<img align="right" width="390" src=".github/plugins/metrics.plugin.repositories.svg">](#) 
 [<img align="right" width="390" height="0" src=".github/plugins/placeholder.svg">](#)
 
+
+[<img align="left" width="390" src=".github/plugins/metrics.plugin.isocalendar.svg">](#)
+[<img align="right" width="390" src=".github/plugins/metrics.plugin.music.svg">](#)
+[<img align="right" width="390" height="0" src=".github/plugins/placeholder.svg">](#)
+
 <a href="https://github.com/thttp#">
-  <img width="390" src=".github/plugins/metrics.plugin.isocalendar.svg"> <br>
   <img width="390" src=".github/plugins/metrics.plugin.notable.svg">
 
 <p align="left">
