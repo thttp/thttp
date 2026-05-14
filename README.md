@@ -28,8 +28,7 @@
   <img width="48" src="https://cdn.simpleicons.org/mikrotik" />
   <img width="48" src="https://cdn.simpleicons.org/wireshark" />
 </p>
-
-  <img width="390" src=".github/plugins/metrics.plugin.activity.svg" /> </a> <br>
+  <img width="390" src=".github/plugins/metrics.plugin.activity.svg" /> </a>  
 <a href="https://news.ycombinator.com/">
   <img width="390" src=".github/plugins/metrics.plugin.rss.svg" />
 </a>
