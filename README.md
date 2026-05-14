@@ -2,11 +2,11 @@
 > Checkout [my repositories](https://github.com/thttp?tab=repositories) and [cybersecurity studies.](https://tryhackme.com/p/thttp)
 >
 > *PS: I haven't been very active on [thttp/linkflow](https://github.com/thttp/linkflow) recently, but it's still in the boxes taking a bit longer than expected to build up the bricks !*
-> - [x] `CCNA certification`
-> - [x] `MTCNA certification`
-> - [x] `Infrastructure support projects`
-> - [x] `Linux environment customization`
-> - [ ] `CompTIA Security+`
+> - [x] [`CCNA certification`](https://github.com/thttp#)
+> - [x] [`MTCNA certification`](https://github.com/thttp#)
+> - [x] [`Infrastructure support projects`](https://github.com/thttp#)
+> - [x] [`Linux environment customization`](https://github.com/thttp#)
+> - [ ] [`CompTIA Security+`](https://github.com/thttp#)
 >   - → I'm studying actively on this currently
 
 [<img align="left" width="390" src=".github/plugins/github-metrics.svg">](#) 
