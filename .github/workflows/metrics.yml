@@ -80,26 +80,7 @@ jobs:
           base: ""
 
           plugin_notable: yes
-
-  activity:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-    - name: Recent activity
-      uses: lowlighter/metrics@latest
-      with:
-        user: thttp
-        token: ${{ secrets.GITHUB_TOKEN }}
-        filename: .github/plugins/metrics.plugin.activity.svg
-        base: ""
-        plugin_activity: yes
-        plugin_activity_limit: 8
-        plugin_activity_load: 300
-        plugin_activity_days: 0
-        plugin_activity_visibility: public
-        plugin_activity_timestamps: false
-
+  
   rss:
     runs-on: ubuntu-latest
 
