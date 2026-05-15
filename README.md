@@ -21,15 +21,9 @@
 <a href="https://github.com/thttp#">
   <img width="390" src=".github/plugins/metrics.plugin.notable.svg">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,aws,grafana,github,bash,cloudflare&theme=dark" />
-<br>
-  <img src="https://skillicons.dev/icons?i=docker,powershell,kali,ubuntu,ansible&theme=dark" />
-  <img width="48" src="https://cdn.simpleicons.org/mikrotik" />
-  <img width="48" src="https://cdn.simpleicons.org/wireshark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,python,grafana,aws,cloudflare,docker,github,powershell,bash,wireshark,putty,kali&perline=6" />
 </p>
-
 <img width="390" src=".github/plugins/metrics.plugin.languages.svg">
-
   <a href="https://news.ycombinator.com/">
   <img width="390" src=".github/plugins/metrics.plugin.rss.svg" />
 </a>
