@@ -138,7 +138,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_other: yes
 
-  llanguages_recent:
+  languages_recent:
     runs-on: ubuntu-latest
     permissions:
       contents: write
