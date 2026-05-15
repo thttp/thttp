@@ -100,13 +100,12 @@ jobs:
 
           base: ""
 
-          plugin_activity: true
+          plugin_activity: yes
           plugin_activity_limit: 8
           plugin_activity_load: 300
           plugin_activity_days: 90
           plugin_activity_visibility: public
           plugin_activity_timestamps: false
-          plugin_activity_filter: issue,pr,release,push,review,star,fork
 
   rss:
     runs-on: ubuntu-latest
