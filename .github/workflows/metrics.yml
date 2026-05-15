@@ -48,7 +48,7 @@ jobs:
       contents: write
     steps:
       - name: Isocalendar
-        uses: lowlighter/metrics@latest
+        uses: thttp/metrics@master
         with:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -56,8 +56,6 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          setup_community_templates: thttp/metrics@master:classic+trust
-          template: "@classic"
 
   notable:
     runs-on: ubuntu-latest
