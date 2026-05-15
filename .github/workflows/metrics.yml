@@ -48,7 +48,7 @@ jobs:
       contents: write
     steps:
       - name: Isocalendar
-        uses: thttp/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
