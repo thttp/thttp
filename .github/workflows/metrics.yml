@@ -40,7 +40,7 @@ jobs:
           base: ""
 
           plugin_repositories: yes
-          plugin_repositories_featured: thttp/LinkFlow
+          plugin_repositories_featured: thttp/LinkFlow, thttp/flyio-multi-stack-deploy
 
   isocalendar:
     runs-on: ubuntu-latest
