@@ -28,6 +28,9 @@
   <img width="48" src="https://cdn.simpleicons.org/wireshark" />
 </p>
 
+<img width="390" src=".github/plugins/metrics.plugin.languages.svg">
+<img width="390" src=".github/plugins/metrics.plugin.languages.recent.svg">
+
   <a href="https://news.ycombinator.com/">
   <img width="390" src=".github/plugins/metrics.plugin.rss.svg" />
 </a>
