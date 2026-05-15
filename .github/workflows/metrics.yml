@@ -91,10 +91,10 @@ jobs:
 
     steps:
       - name: Recent activity
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           user: thttp
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           filename: .github/plugins/metrics.plugin.activity.svg
 
@@ -104,7 +104,7 @@ jobs:
           plugin_activity_limit: 8
           plugin_activity_load: 300
           plugin_activity_days: 90
-          plugin_activity_visibility: all
+          plugin_activity_visibility: public
           plugin_activity_timestamps: false
           plugin_activity_filter: issue,pr,release,push,review,star,fork
 
