@@ -102,19 +102,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Music playlist
-        uses: lowlighter/metrics@latest
-        with:
-          user: thttp
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: .github/plugins/metrics.plugin.music.svg
-          base: ""
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_mode: playlist
-          plugin_music_playlist: https://open.spotify.com/embed/playlist/3C0rLVZ8CCsDvtWiWCkf3l?utm_source=generator&theme=0
-          plugin_music_limit: 5
-
+    - name: Music playlist
+      uses: lowlighter/metrics@latest
+      with:
+        user: thttp
+        token: ${{ secrets.GITHUB_TOKEN }}
+        filename: .github/plugins/metrics.plugin.music.svg
+        base: ""
+        plugin_music: yes
+        plugin_music_provider: spotify
+        plugin_music_mode: playlist
+        plugin_music_playlist: https://open.spotify.com/embed/playlist/3C0rLVZ8CCsDvtWiWCkf3l?utm_source=generator&theme=0
+        plugin_music_limit: 5
+        
   languages:
     runs-on: ubuntu-latest
     permissions:
