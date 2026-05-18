@@ -1,52 +1,32 @@
 name: Metrics
-
 on:
   workflow_dispatch:
-
+  schedule: [{cron: "0 * * * *"}]
 jobs:
-  general:
+  metrics:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
-      - name: General metrics
+      - name: General
         uses: lowlighter/metrics@latest
         with:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
-
           filename: .github/plugins/github-metrics.svg
-
           base: header
           base_indepth: yes
 
-  repositories:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - name: Featured repository
+      - name: Repositories
         uses: lowlighter/metrics@latest
         with:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
-
           filename: .github/plugins/metrics.plugin.repositories.svg
-
           base: ""
-
           plugin_repositories: yes
           plugin_repositories_featured: thttp/LinkFlow, thttp/flyio-multi-stack-deploy
 
-  isocalendar:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
       - name: Isocalendar
         uses: lowlighter/metrics@latest
         with:
@@ -57,71 +37,41 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-  notable:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - name: Notable contributions
+      - name: Notable
         uses: lowlighter/metrics@latest
         with:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
-
           filename: .github/plugins/metrics.plugin.notable.svg
-
           base: ""
-
           plugin_notable: yes
-  
-  rss:
-    runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
-    steps:
-      - name: News from Hacker News
+      - name: RSS
         uses: lowlighter/metrics@latest
         with:
           user: thttp
           token: ${{ secrets.GITHUB_TOKEN }}
-
           filename: .github/plugins/metrics.plugin.rss.svg
-
           base: ""
-
-          plugin_rss: true
+          plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
           plugin_rss_limit: 4
 
-  music:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-    - name: Music recently played
-      uses: lowlighter/metrics@latest
-      with:
-        user: thttp
-        token: ${{ secrets.GITHUB_TOKEN }}
-        filename: .github/plugins/metrics.plugin.music.svg
-        base: ""
-        plugin_music: yes
-        plugin_music_provider: lastfm
-        plugin_music_mode: recent
-        plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
-        plugin_music_user: thttp
-        plugin_music_limit: 5
-        
-  languages:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Most used languages
+      - name: Music
+        uses: lowlighter/metrics@latest
+        with:
+          user: thttp
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: .github/plugins/metrics.plugin.music.svg
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: lastfm
+          plugin_music_mode: recent
+          plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
+          plugin_music_user: thttp
+          plugin_music_limit: 5
+
+      - name: Languages
         uses: lowlighter/metrics@latest
         with:
           user: thttp
