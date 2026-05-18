@@ -25,7 +25,7 @@ jobs:
           filename: .github/plugins/metrics.plugin.repositories.svg
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: thttp/LinkFlow, thttp/flyio-multi-stack-deploy
+          plugin_repositories_featured: thttp/SSH-interface, thttp/flyio-multi-stack-deploy, thttp/LinkFlow
 
       - name: Isocalendar
         uses: lowlighter/metrics@latest
