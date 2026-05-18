@@ -102,7 +102,7 @@ jobs:
     permissions:
       contents: write
     steps:
-    - name: Music playlist
+    - name: Music recently played
       uses: lowlighter/metrics@latest
       with:
         user: thttp
@@ -110,9 +110,10 @@ jobs:
         filename: .github/plugins/metrics.plugin.music.svg
         base: ""
         plugin_music: yes
-        plugin_music_provider: spotify
-        plugin_music_mode: playlist
-        plugin_music_playlist: https://open.spotify.com/embed/playlist/3C0rLVZ8CCsDvtWiWCkf3l?utm_source=generator&theme=0
+        plugin_music_provider: lastfm
+        plugin_music_mode: recent
+        plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
+        plugin_music_user: thttp
         plugin_music_limit: 5
         
   languages:
