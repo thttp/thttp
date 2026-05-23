@@ -1,7 +1,8 @@
 > Want to know what I'm currently working on ?\
 > Checkout [my repositories](https://github.com/thttp?tab=repositories) and [cybersecurity studies.](https://tryhackme.com/p/thttp)
 >
-> *PS: I haven't been very active on my studies recently !*
+> *PS: I haven't been very active on my [webpage](https://thttp.github.io/) recently, but it's still in the boxes taking a bit longer than expected to build up the bricks !*
+> 
 > - [x] [`CCNA certification`](https://github.com/thttp#)
 > - [x] [`MTCNA certification`](https://github.com/thttp#)
 > - [x] [`Infrastructure support projects`](https://github.com/thttp#)
