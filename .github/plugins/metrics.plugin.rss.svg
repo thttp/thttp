@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">507 Mechanical Movements</div>
+                                <div class="title">Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance</div>
                                 <div class="date">27 Aug 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We found a division by zero bug in FFmpeg with a vibecoded fuzzer</div>
-                                <div class="date">27 Aug 2026</div>
+                                <div class="title">Terminal-Bench-Science: Evaluating AI agents on scientific research workflows</div>
+                                <div class="date">28 Aug 2026</div>
                             </div>
                         </div>
                     </section>
