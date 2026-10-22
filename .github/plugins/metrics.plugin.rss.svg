@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">mitmproxy adds --emudhra option</div>
-                                <div class="date">21 Oct 2026</div>
+                                <div class="title">CVE-2026-111943: Compromised Intermediate Certificate Authority</div>
+                                <div class="date">22 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments</div>
+                                <div class="title">WorldTUI: I trained a 360M model to pretend to be a terminal</div>
                                 <div class="date">22 Oct 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">There isn't an easy exploit for this PHP vulnerability</div>
-                                <div class="date">21 Oct 2026</div>
+                                <div class="title">Achieving AI-style reasoning without an LLM</div>
+                                <div class="date">22 Oct 2026</div>
                             </div>
                         </div>
                     </section>
