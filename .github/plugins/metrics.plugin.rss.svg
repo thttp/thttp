@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Linode Security Incident</div>
+                                <div class="title">Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game</div>
                                 <div class="date">30 Oct 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bunny CDN Security Incident</div>
-                                <div class="date">30 Oct 2026</div>
+                                <div class="title">Cloudflare Turnstile solver library (no headless browser required)</div>
+                                <div class="date">28 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">France is getting download tax for content providers (€0.055/GB)</div>
+                                <div class="title">Backdoor in Claude Code for VS Code extension on the Cursor Marketplace</div>
                                 <div class="date">30 Oct 2026</div>
                             </div>
                         </div>
